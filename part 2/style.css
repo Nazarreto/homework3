@@ -1,36 +1,8 @@
+*{
+  text-align: center;
+}
 
-
-
-/* .flex-wrapper{ 
-    display: flex; 
-    background-color: beige; 
-  } 
-  .flex-wrapper > div { 
-    background-color: green; 
-    height: 100px; 
-    width: 100px; 
-    margin: 35px; 
-  } 
-
-  #one{ 
-    /* flex-grow: 10; */
-    /* padding: 50px;
-    height: 50px;
-    width: 500px;
-    
-     */
-    
-  
-
-  /* #qwe{
-    background: aquamarine;
-    height: 55px;
-    width: 300px;
-    margin: 20 auto px;
-    
-  } */
-
-  .container{
+.container{
     
     height: 1200px;
     width: 600px;
@@ -56,16 +28,13 @@
     height: 50px;
     background: white;
     margin: 0 auto;
-    text-align: center;
   }
 
 .bottom div{
   width: 120px;
   height: 150px;
-  /* background: coral; */
   float: left;
-  text-align: center;
-
+  
 }
 
 .item1{
@@ -102,7 +71,6 @@
   width: 100px;
   height: 50px;
   background: silver;
-  text-align: center;
   padding: 15px;
   box-sizing: border-box;
   margin: 0 auto;
@@ -151,8 +119,8 @@ float: left;
   width: 200px;
   height: 25px;
   background: rgb(142, 142, 192);
-  text-align: center;
 }
+
 
 .B{
   width: 66.66px;
@@ -286,8 +254,6 @@ float: left;
   height: 150px;
   width: 200px;
   background: white;
-  text-align: center;
-  
   
 }
 
@@ -334,4 +300,12 @@ float: left;
   width: 133.33px;
   background: palevioletred;
   float: left;
+}
+
+.under{
+  height: 100px;
+  width: 600px;
+  background: rgb(71, 68, 68);
+  float: left;
+  margin-left: -400px;
 }
