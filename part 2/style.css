@@ -1,26 +1,28 @@
 *{
+  margin: 0;
   text-align: center;
+  box-sizing: border-box;
 }
 
 .container{
-    
-    height: 1200px;
+    height: 100vh;
     width: 600px;
   }
 
   .top{
     background: wheat;
     height: 200px;
-    padding-top: 100px;
+    padding-top: 50px;
   }
 
-  .top .inner{
+  .inner{
     width: 450px;
     height: 100px;
     background: burlywood;
     margin: 0 auto;
     padding-top: 25px;
     box-sizing: border-box;
+    
   }
 
   .qwe{
@@ -83,8 +85,6 @@
   margin-top: 15px;
   margin-left: 47px;
   box-sizing: border-box;
-
-  
 }
 
 .q3{
@@ -100,7 +100,6 @@
   height: 150px;
   background: rgb(199, 219, 152);
   float: left;
-  
 }
 
 .second{
@@ -121,7 +120,6 @@ float: left;
   width: 66.66px;
   height: 177px;
   background: cadetblue;
-  
 }
 
 .B1{
@@ -213,7 +211,6 @@ height: 82px;
 width: 59px;
 margin-top: 10px;
 margin-left: 4px;
-
 }
 
 
