@@ -1,0 +1,38 @@
+.Conteiner{
+    height: 800px;
+    width: 800px; 
+    /* margin: 0 auto; */
+    margin-left: 200px;
+
+}
+
+.q{
+    width: 150px;
+    height: 85px;
+    background:aqua;
+    margin-bottom: 15px;
+}
+
+.w{
+    width: 150px;
+    height: 85px;
+    background:yellow;
+    margin-bottom: 15px;
+}
+
+.e{
+    width: 150px;
+    height: 85px;
+    background:aqua;
+    margin-bottom: 15px;
+    border: 10px solid blue;
+    margin-right: 155px;
+}
+
+.r{
+    width: 150px;
+    height: 85px;
+    background: aqua;
+    margin-bottom: 15px;
+    border-left: 3px solid black;
+}

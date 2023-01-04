@@ -1,0 +1,337 @@
+
+
+
+/* .flex-wrapper{ 
+    display: flex; 
+    background-color: beige; 
+  } 
+  .flex-wrapper > div { 
+    background-color: green; 
+    height: 100px; 
+    width: 100px; 
+    margin: 35px; 
+  } 
+
+  #one{ 
+    /* flex-grow: 10; */
+    /* padding: 50px;
+    height: 50px;
+    width: 500px;
+    
+     */
+    
+  
+
+  /* #qwe{
+    background: aquamarine;
+    height: 55px;
+    width: 300px;
+    margin: 20 auto px;
+    
+  } */
+
+  .container{
+    
+    height: 1200px;
+    width: 600px;
+  }
+
+  .top{
+    background: wheat;
+    height: 200px;
+    padding-top: 100px;
+  }
+
+  .top .inner{
+    width: 450px;
+    height: 100px;
+    background: burlywood;
+    margin: 0 auto;
+    padding-top: 25px;
+    box-sizing: border-box;
+  }
+
+  .qwe{
+    width: 300px;
+    height: 50px;
+    background: white;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.bottom div{
+  width: 120px;
+  height: 150px;
+  /* background: coral; */
+  float: left;
+  text-align: center;
+
+}
+
+.item1{
+  background: cadetblue;
+}
+
+.item2{
+  background: rgb(102, 102, 180);   
+}
+
+.item3{
+  background: rgb(181, 156, 110);
+}
+
+.item4{
+  background: rgb(159, 109, 93);
+}
+
+.item5{
+  background: blueviolet;
+}
+
+.first{
+  height: 300px;
+  width: 200px;
+  background: green;
+  clear: both;
+  padding: 10px;
+  box-sizing: border-box;
+  float: left;
+}
+
+.q1{
+  width: 100px;
+  height: 50px;
+  background: silver;
+  text-align: center;
+  padding: 15px;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.q2{
+  width: 85px;
+  height: 55px;
+  background: red;
+  margin-top: 15px;
+  margin-left: 47px;
+  box-sizing: border-box;
+
+  
+}
+
+.q3{
+  width: 42.5px;
+  height: 150px;
+  background: rgb(159, 109, 93);
+  /* margin: 0 auto; */
+  float: left;
+  margin-left: 47px;
+}
+
+.q4{
+  width: 42.5px;
+  height: 150px;
+  background: rgb(199, 219, 152);
+  float: left;
+  /* margin: 0 auto; */
+  /* margin-left: 47px; */
+  
+  
+}
+
+.second{
+width: 200px;
+height: 300px;
+background: rgb(231, 239, 237);
+float: left;
+/* /* box-sizing: border-box; */
+}
+
+.A{
+  width: 200px;
+  height: 25px;
+  background: rgb(142, 142, 192);
+  text-align: center;
+}
+
+.B{
+  width: 66.66px;
+  height: 177px;
+  background: cadetblue;
+  
+}
+
+.B1{
+  width: 33.33px;
+  height: 150px;
+  background: rgb(231, 35, 5);
+  margin-top: 107px;
+}
+
+.B2{
+  height: 98px;
+  width: 33.33px;
+  background: yellowgreen;
+  margin-left: 33.33px;
+  float: left;
+}
+
+.C1{
+  height: 72px;
+  width: 66.66px;
+  background: rgb(180, 213, 227);
+  float: left;
+  margin-top: -177px;
+}
+
+.C2{
+  height: 72px;
+  width: 66.66px;
+  background: rgb(50, 57, 135);
+  float: left;
+  margin-top: -105px;
+}
+
+.C3{
+  height: 72px;
+  width: 66.66px;
+  background: rgb(147, 70, 135);
+  float: left;
+  margin-top: -33px;
+}
+
+.C4{
+  height: 59px;
+  width: 33.33px;
+  background: rgb(208, 211, 211);
+  float: left;
+  margin-top: 0px;
+  margin-right: 57px;
+}
+
+.C5{
+  height: 59px;
+  width: 33.33px;
+  background: rgba(215, 101, 0, 0.874);
+  float: left;
+  margin-top: 0px;
+  margin-left: -57px;
+}
+
+.D{
+  height: 72px;
+  width: 67.66px;
+  background: rgb(0, 255, 217);
+  float: left;
+  margin-left: 133px;
+  margin-top: -275px;
+}
+
+.D1{
+  height: 72px;
+  width: 67.66px;
+  background: rgb(48, 99, 92);
+  float: left;
+  margin-left: 133px;
+  margin-top: -203px;
+}
+
+.D3{
+  height: 131px;
+  width: 67.66px;
+  background: wheat;
+  float: left;
+  margin-left: 133px;
+  margin-top: -131px;
+}
+
+.D3 img{
+height: 82px;
+width: 59px;
+margin-top: 10px;
+margin-left: 4px;
+
+}
+
+
+.third{
+width: 200px;
+height: 300px;
+background: rgb(174, 174, 182);
+float: left;
+}
+
+.I{
+  height: 25px;
+  width: 66.66px;
+  background: rgb(129, 163, 96);
+  float: left;
+}
+
+.II{
+  height: 25px;
+  width: 66.66px;
+  background: hwb(314 38% 36%);
+  float: left;
+}
+
+.III{
+  height: 25px;
+  width: 66.66px;
+  background: hwb(39 1% 33%);
+  float: left;
+}
+
+.VI{
+  height: 150px;
+  width: 200px;
+  background: white;
+  text-align: center;
+  
+  
+}
+
+.inside{
+  height: 20px;
+  width: 80px;
+  background: red;
+  margin: 0 auto;
+
+}
+
+
+.VII{
+  height: 150px;
+  width: 66.66px;
+  background: rgb(5, 58, 5);
+  float: left;
+  margin-top: 0px;
+}
+
+.VIII{
+  height: 40px;
+  width: 133.33px;
+  background: slateblue;
+  float: left;
+}
+
+.IX{
+  height: 40px;
+  width: 66.66px;
+  background: blueviolet;
+  float: left;
+}
+
+.X{
+  height: 40px;
+  width: 66.66px;
+  background: wheat;
+  float: left;
+}
+
+.XI{
+  height: 70px;
+  width: 133.33px;
+  background: palevioletred;
+  float: left;
+}
